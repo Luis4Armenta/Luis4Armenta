@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **python and node.js back-end frameworks and front-end, good programming practices, machine learning and cyber security.**
 
-- 👨‍💻 All of my projects are available at [Luis4Armenta.github.io](https://Luis4Armenta.github.io)
+- 👨‍💻 All of my projects are available at 
 
 - ⚡ Fun fact **I love listening to musicals while programming.**
 
