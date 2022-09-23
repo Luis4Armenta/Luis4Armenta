@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Aremtna</h1>
+<h1 align="center">Hi 👋, I'm Luis Armenta</h1>
 <h3 align="center">A junior software development student interested in computer science in general.</h3>
 
 
