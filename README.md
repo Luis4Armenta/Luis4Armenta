@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Armenta</h1>
-<h3 align="center">A junior software development student interested in computer science in general.</h3>
+<h3 align="center">A software developer.</h3>
 
 
-- 🌱 I’m currently learning **python and node.js back-end frameworks and front-end, good programming practices, machine learning and cyber security.**
+- 🌱 I’m currently learning **everything that comes my way.**
 
 - 👨‍💻 All of my projects are available at 
 
